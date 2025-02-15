@@ -1,7 +1,7 @@
-package com.tr4ncer.removeoldfile;
+package com.metallicbluedev.removeoldfile;
 
-import com.tr4ncer.logger.*;
-import com.tr4ncer.utils.*;
+import com.metallicbluedev.logger.*;
+import com.metallicbluedev.utils.*;
 import java.io.*;
 import java.nio.file.*;
 import java.nio.file.attribute.*;

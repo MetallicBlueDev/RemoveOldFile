@@ -1,7 +1,7 @@
-package com.tr4ncer.removeoldfile;
+package com.metallicbluedev.removeoldfile;
 
-import com.tr4ncer.core.*;
-import com.tr4ncer.factory.*;
+import com.metallicbluedev.core.*;
+import com.metallicbluedev.factory.*;
 
 /**
  *
