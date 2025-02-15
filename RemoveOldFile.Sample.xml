@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AppSettings>
+    <autoStartPerformanceMeasurement>true</autoStartPerformanceMeasurement>
+    <logMaxBackup>1</logMaxBackup>
+    <logMaxLength>1572864</logMaxLength>
+    <performanceMeasurementWaitUserFactor>1.0</performanceMeasurementWaitUserFactor>
+    <writeLogFile>true</writeLogFile>
+    <fileConfigs>
+        <fileConfig name="MyFriendlyName">
+            <path>C:\XXXXX</path>
+            <daysToKeep>90</daysToKeep>
+        </fileConfig>
+        <fileConfig name="MyOtherName">
+            <path>D:\Hello</path>
+            <daysToKeep>30</daysToKeep>
+        </fileConfig>
+    </fileConfigs>
+</AppSettings>
